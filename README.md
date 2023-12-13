@@ -1,70 +1,20 @@
-# Getting Started with Create React App
+## How K become POP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Preview
 
-## Available Scripts
+![P3_20190656최승연](https://github.com/nsy033/ID221_KPOP_stars/assets/76762181/a9ea6f43-29cd-4f5d-851f-d5414de26acb)
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![deployed](https://github.com/nsy033/ID221_KPOP_stars/assets/76762181/9b49ed84-e27f-4316-a9bf-2cb4d63f77d3)
 
-### `npm run build` fails to minify
+**Deployed Link**: https://id221-kpop-stars.web.app
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Nothing special, but since I worked on this project with coding, I wanted to add some interaction. If you hover your mouse on the Billboard list, the song will be playing too!
+The deployed vesion is only targeting PC. The window ratio will be best seen at 16:9.
+
+
+### Project Description
+
+K-pop has conquered the world. The mass media say everyday that K-culture is now recognized as a trend anywhere in the world. However, some point out that because of this internationalization trend, English is rather swallowing Korean lyrics up. So I wanted to find out if the problem is that serious. I looked at the level of English use in the past and what it is like these days through data. This visualization shows how English has permeated K-pop from the 1990s to the 2020s. Feel free to explore whether K-pop has really conquered by English.
